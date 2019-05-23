@@ -1,2 +1,4 @@
 name: test
 markdown: kramdown
+
+theme: jekyll-theme-minimal
