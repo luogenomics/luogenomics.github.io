@@ -72,14 +72,9 @@ footer {
     width: 40%;
     min-height: 1px;
 }
-.projectfillbox {
-    position: relative;
-    width: 10%;
-    min-height: 1px;
-}
 .projecttextbox {
     position: relative;
-    width: 50%;
+    width: 60%;
     min-height: 1px;
 }
 .projectmedia {
