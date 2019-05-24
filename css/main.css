@@ -28,13 +28,18 @@ p {
     line-height: 1em;
     color: #333;
 }
-pull-left {
-  margin-right: 10px;
-}
-pull-right {
-  margin-left: 10px;
-}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+
+
+.media-object {
+  display: block;
+}
+.media > .pull-left {
+  margin-right: 10px;
+}
+.media > .pull-right {
+  margin-left: 10px;
 }
