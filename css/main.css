@@ -71,6 +71,11 @@ footer {
     width: 40%;
     min-height: 1px;
 }
+.projecttextbox {
+    position: relative;
+    width: 50%;
+    min-height: 1px;
+}
 .projectmedia {
   display: block;
 }
