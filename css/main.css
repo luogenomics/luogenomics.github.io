@@ -71,13 +71,13 @@ footer {
     position: relative;
     width: 40%;
     min-height: 1px;
-    padding-right: 30px;
+    padding-right: 100px;
 }
 .projecttextbox {
     position: relative;
     width: 60%;
     min-height: 1px;
-    padding-left: 30px;
+    padding-left: 100px;
 }
 .projectmedia {
   display: block;
