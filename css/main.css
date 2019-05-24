@@ -32,8 +32,18 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-
+.hugespacer {
+  height: 50px;
+}
+.bigspacer {
+  height: 20px;
+}
+.spacer {
+  height: 10px;
+}
+.smallspacer {
+  height: 5px;
+}
 .media-object {
   display: block;
 }
