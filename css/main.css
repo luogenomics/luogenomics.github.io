@@ -48,9 +48,7 @@ footer {
 .smallspacer {
   height: 5px;
 }
-.media-object {
-  display: block;
-}
+
 .media > .pull-left {
   margin-right: 10px;
 }
@@ -63,10 +61,15 @@ footer {
 .pull-left {
   float: left !important;
 }
-.project-box {
+.projectbox {
     position: relative;
     width: 100%;
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
+}
+.projectmedia {
+  display: block;
+  position: relative;
+  width: 40%;
 }
