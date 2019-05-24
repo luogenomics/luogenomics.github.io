@@ -64,6 +64,9 @@ footer {
   float: left !important;
 }
 .project-box {
+    position: relative;
     width: 100%;
     min-height: 120px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
