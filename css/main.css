@@ -81,6 +81,12 @@ footer {
     min-height: 1px;
     padding-right: 10%;
 }
+.datamediabox {
+    position: relative;
+    width: 15%;
+    min-height: 1px;
+    padding-right: 10%;
+}
 .projecttextbox {
     position: relative;
     width: 50%;
