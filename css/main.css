@@ -68,6 +68,13 @@ footer {
     min-height: 1px;
     display: block;
 }
+.databox {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    min-height: 1px;
+    display: block;
+}
 .projectmediabox {
     position: relative;
     width: 30%;
