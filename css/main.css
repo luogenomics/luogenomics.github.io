@@ -9,6 +9,14 @@ nav ul {
     padding: 0px;
     list-style: none;
 }
+nav logo {
+    text-align:left;
+    font-family:'Helvetica';
+    font-weight: bold;
+    font-size: x-large;
+    padding: 0px;
+    list-style: none;
+}
 footer ul {
     font-family:'Courier New';
     padding: 0px;
