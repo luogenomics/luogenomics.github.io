@@ -3,6 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+    margin:auto;
     font-family:'Courier New';
     padding: 0px;
     list-style: none;
