@@ -2,10 +2,16 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul {
     text-align:center;
     font-family:'Courier New';
     font-size: large;
+    font-weight: bold;
+    padding: 0px;
+    list-style: none;
+}
+footer ul {
+    font-family:'Courier New';
     padding: 0px;
     list-style: none;
 }
