@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: 777;
+    color: #777;
 }
 a:hover {
     text-decoration: underline;
@@ -96,4 +96,6 @@ footer {
 }
 .projectmedia {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
