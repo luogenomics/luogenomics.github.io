@@ -3,9 +3,8 @@ body {
     width: 70%;
 }
 nav ul {
-    text-align:center;
+    text-align:right;
     font-family:'Courier New';
-    font-size: large;
     font-weight: bold;
     padding: 0px;
     list-style: none;
