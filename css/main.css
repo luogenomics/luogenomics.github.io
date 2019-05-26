@@ -10,9 +10,9 @@ nav ul {
     padding: 0px;
     list-style: none;
 }
-nav logo {
+logo {
     text-align:center;
-    display: inline;
+    display: block;
     list-style: none;
 }
 footer ul {
