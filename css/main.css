@@ -6,6 +6,7 @@ nav ul {
     text-align:right;
     font-family:'Helvetica';
     font-weight: bold;
+    display: inline;
     padding: 0px;
     list-style: none;
 }
@@ -15,7 +16,7 @@ nav logo {
     list-style: none;
 }
 footer ul {
-    font-family:'Courier New';
+    font-family:'Helvetica';
     padding: 0px;
     list-style: none;
 }
