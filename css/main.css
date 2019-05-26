@@ -11,9 +11,7 @@ nav ul {
 }
 nav logo {
     text-align:left;
-    font-family:'Helvetica';
-    font-weight: bold;
-    font-size: xx-large;
+    display: inline;
     list-style: none;
 }
 footer ul {
