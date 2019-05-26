@@ -3,8 +3,9 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    margin:auto;
+    text-align:center;
     font-family:'Courier New';
+    font-size: large;
     padding: 0px;
     list-style: none;
 }
@@ -14,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #4b91f1;
+    color: 777;
 }
 a:hover {
     text-decoration: underline;
