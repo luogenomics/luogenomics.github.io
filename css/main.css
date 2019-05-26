@@ -7,7 +7,6 @@ nav ul, footer ul {
     font-family:'Courier New';
     padding: 0px;
     list-style: none;
-    color: black;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -15,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #4b91f1;
 }
 a:hover {
     text-decoration: underline;
