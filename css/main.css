@@ -87,6 +87,14 @@ footer {
     min-height: 1px;
     display: block;
 }
+.peoplebox {
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: 200px;
+    min-height: 1px;
+    display: block;
+}
 .projectmediabox {
     position: relative;
     width: 30%;
@@ -94,6 +102,13 @@ footer {
     padding-right: 10%;
 }
 .datamediabox {
+    position: relative;
+    width: 15%;
+    min-height: 1px;
+    padding-right: 10%;
+    margin-left: 100px;
+}
+.peoplemediabox {
     position: relative;
     width: 15%;
     min-height: 1px;
