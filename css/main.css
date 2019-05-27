@@ -23,6 +23,9 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 35px;
 }
+cover_text {
+    width: 900px;
+}
 a {
     text-decoration: none;
     color: #777;
