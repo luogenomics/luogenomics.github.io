@@ -113,5 +113,6 @@ footer {
     top: 20px;
 }
 .cover_text {
+    text-align:center;
     width: 900px;
 }
