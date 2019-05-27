@@ -41,7 +41,7 @@ h2 {
 p {
     font-size: 1em;
     line-height: 1em;
-    color: #333;
+    color: #50a2fd;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -116,4 +116,5 @@ footer {
     margin: auto;
     text-align:left;
     width: 900px;
+    line-height: 150%;
 }
