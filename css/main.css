@@ -73,50 +73,43 @@ footer {
   float: left !important;
 }
 .projectbox {
-    position: relative;
-    width: 100%;
+    width: 1000px;
     height: 350px;
     min-height: 1px;
     display: block;
 }
 .databox {
     margin: auto;
-    position: relative;
-    width: 100%;
+    width: 1000px;
     height: 200px;
     min-height: 1px;
     display: block;
 }
 .peoplebox {
     margin: auto;
-    position: relative;
-    width: 100%;
+    width: 1000px;
     height: 300px;
     min-height: 1px;
     display: block;
 }
 .projectmediabox {
-    position: relative;
-    width: 30%;
+    width: 300px;
     min-height: 1px;
 }
 .datamediabox {
-    position: relative;
-    width: 15%;
+    width: 150px;
     min-height: 1px;
     margin-left: 100px;
 }
 .peoplemediabox {
-    position: relative;
-    width: 15%;
+    width: 150px;
     min-height: 1px;
     margin-left: 150px;
 }
 .projecttextbox {
-    position: relative;
-    width: 50%;
+    width: 500px;
     min-height: 1px;
-    padding-left: 10%;
+    padding-left: 50px;
 }
 .projectmedia {
   display: block;
