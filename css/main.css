@@ -73,6 +73,7 @@ footer {
   float: left !important;
 }
 .projectbox {
+    margin: auto;
     width: 1000px;
     height: 350px;
     min-height: 1px;
@@ -109,7 +110,7 @@ footer {
 .projecttextbox {
     width: 500px;
     min-height: 1px;
-    padding-left: 50px;
+    margin-left: 100px;
 }
 .projectmedia {
   display: block;
