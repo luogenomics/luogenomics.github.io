@@ -105,6 +105,7 @@ footer {
 .peoplemediabox {
     width: 300px;
     min-height: 1px;
+    margin-left: 100px;
 }
 .projecttextbox {
     width: 500px;
