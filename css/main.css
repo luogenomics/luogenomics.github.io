@@ -93,6 +93,12 @@ footer {
     min-height: 1px;
     display: block;
 }
+.alumnibox {
+    margin: auto;
+    width: 1000px;
+    min-height: 1px;
+    display: block;
+}
 .projectmediabox {
     width: 300px;
     min-height: 1px;
